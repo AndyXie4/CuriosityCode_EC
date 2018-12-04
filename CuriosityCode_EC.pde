@@ -1,5 +1,7 @@
 // Post your CuriosityCode_EC here. 
 size(800,800);
+ellipse(440,500,100,200);
+ellipse(300,500,100,200);
 ellipse(400,300,300,400);
 ellipse(400,70,120,100);
 rect(375,70,40,1);
